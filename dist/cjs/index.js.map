@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../src/components/button.tsx"],"sourcesContent":[null],"names":["_a","children","variant","onClickHandler","React","createElement","type","className","concat","onClick"],"mappings":"qLAKiC,SAACA,GAAC,IAAAC,aAAUC,EAAOF,EAAAE,QAAEC,EAAcH,EAAAG,eAChE,OACIC,EAAAA,QAAQC,cAAA,SAAA,CAAAC,KAAK,SAASC,UAAW,UAAAC,OAAUN,GAAWO,QAASN,GAC1DF"}
