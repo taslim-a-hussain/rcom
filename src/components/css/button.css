@@ -1,0 +1,22 @@
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    cursor: pointer;
+    min-width: 32px;
+    min-height: 32px;
+    background-color: aliceblue;
+}
+
+.btnPrimary {
+    background-color: aqua;
+}
+
+.btnSecondary {
+    background-color: burlywood;
+}
+
+.btnError {
+    background-color: red;
+}
