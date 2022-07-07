@@ -2,12 +2,13 @@
   "name": "react-lib",
   "version": "1.0.0",
   "description": "React component library",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
   "author": "Taslim A Hussain",
   "license": "MIT",
   "scripts": {
     "start": "parcel public/index.html --dist-dir out",
-    "build": "tsc"
+    "build": "rollup -c"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^22.0.1",
